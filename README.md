@@ -11,5 +11,9 @@ This project uses a potentiometer and three LEDs (green, yellow, and red) to ind
 ## Key Takeaways 
 
 - Using a DMM to test resistors
+- Controlling a potentiometer
+- Using if statements in C++
 
 ## Images
+
+<img src="images/circuit.JPG">
