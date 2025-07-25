@@ -2,8 +2,6 @@
 
 This project uses a potentiometer and three LEDs (green, yellow, and red) to indicate voltage levels. 
 
-## Voltage Zones
-
 | Voltage Range (V) | LED Color | Meaning     |
 |-------------------|-----------|-------------|
 | Below 3.0V        | Green     | ✅ Safe      |
